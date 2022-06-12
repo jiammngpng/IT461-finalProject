@@ -31,6 +31,6 @@ flask run
 - Kyle Vincent M. Olodin
 - Jan Francis Arzadon
 - Jefferson Sison
-- Jeafhe Amamampang
+- Jeahfe Amamampang
 - Carl Cordova
 - John Paul Eguia
